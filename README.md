@@ -34,15 +34,16 @@ The CarbonTrack system is engineered using a robust **3-Tier Architecture** to g
 
 ---
 
-## Contributors
-The system analysis, architectural modeling, and documentation of the CarbonTrack system were collaboratively developed by the following team members (BSIT - 2.3):
+## Contributors & Module Assignments
+The system analysis, architecture design, and documentation of the CarbonTrack system were collaboratively developed by the following team members (BSIT - 2.3). Below is the breakdown of their specific contributions across the Software Requirements Specification (SRS) and System Design and Architecture Document (SDAD):
 
-| Name | Role / Assigned Contribution | GitHub Profile |
+| Name | Primary Contribution / Assigned Modules | GitHub Profile |
 | :--- | :--- | :--- |
-| **Athea Glaise Tarnate** | Lead System Analyst / Module: Authentication & Student Dashboard | [@athea1](https://github.com/athea1) |
-| **Prince Wesley Dela Pasion**| Software Architect / Module: System Infrastructure & DFDs | [@westdp17](https://github.com/westdp17) | 
-| **Brix Charles Caparon** | Database Designer / Module: Logical ERD & Data Architecture | [@424005722-Brix](https://github.com/424005722-Brix)) |
-| **Eucel Penarubia** | UI/UX Designer / Module: Wireframing & Core User Journey | [@username](https://github.com/) |
-| **Christian Camano** | QA Specialist / Module: Validation Plan & Requirements Traceability | [@Kisatsune](https://github.com/Kisatsune) |
-| **Quelly De Los Santos** | Technical Writer / Module: Feasibility Analysis & Documentation | [@elly006](https://github.com/elly006) |
+| **Athea Glaise Tarnate** | Project Charter, System Boundary, Process Architecture (DFD), UI/UX Blueprint, Validation Plan | [@athea1](https://github.com/athea1) |
+| **Prince Wesley Dela Pasion**| Stakeholder Analysis, Specific Requirements (MoSCoW), Process Architecture (DFD), Data Architecture (ERD) | [@westdp17](https://github.com/westdp17) | 
+| **Brix Charles Caparon** | Data Architecture (Logical ERD), TELOS Feasibility Analysis | [@424005722-Brix](https://github.com/424005722-Brix)) |
+| **Eucel Penarubia** | Data Architecture (Logical ERD) | [@username](https://github.com/) |
+| **Christian Camano** | Logical Use Case Models, System Infrastructure (3-Tier Architecture) | [@Kisatsune](https://github.com/Kisatsune) |
+| **Quelly De Los Santos** | Logical Use Case Models, System Infrastructure (3-Tier Architecture) | [@elly006](https://github.com/elly006) |
+
 
