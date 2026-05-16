@@ -34,6 +34,26 @@ The CarbonTrack system is engineered using a robust **3-Tier Architecture** to g
 
 ---
 
+##  Repository Structure
+Our project files are organized professionally based on standard SAD documentation guidelines:
+
+```
+[GROUP_NAME_SDG13_SAD]
+├── DOCUMENTATION/
+│   ├── 01_SRS_Final.pdf
+│   ├── 02_SDAD_Final.pdf
+│   └── INTERVIEWS/
+├── MODELS/
+│   ├── DFD/ (Context & Level-0 Data Flow Diagrams)
+│   ├── ERD/ (3NF Entity Relationship Diagram)
+│   └── USE_CASES/ (Actor-Goal Alignments)
+├── PROTOTYPE/ 
+│   └── CARBONTRACKZ_UI.pdf (High-Fidelity Mockups)
+└── README.md
+```
+
+---
+
 ## Contributors & Module Assignments
 The system analysis, architecture design, and documentation of the CarbonTrack system were collaboratively developed by the following team members (BSIT - 2.3). Below is the breakdown of their specific contributions across the Software Requirements Specification (SRS) and System Design and Architecture Document (SDAD):
 
