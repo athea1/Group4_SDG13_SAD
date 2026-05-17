@@ -59,8 +59,8 @@ The system analysis, architecture design, and documentation of the CarbonTrack s
 
 | Name | Primary Contribution / Assigned Modules | GitHub Profile |
 | :--- | :--- | :--- |
-| **Athea Glaise Tarnate** | Project Charter, System Boundary, Process Architecture (DFD), UI/UX Blueprint, Validation Plan | [@athea1](https://github.com/athea1) |
-| **Prince Wesley Dela Pasion**| Stakeholder Analysis, Specific Requirements (MoSCoW), Process Architecture (DFD), Data Architecture (ERD) | [@westdp17](https://github.com/westdp17) | 
+| **Athea Glaise Tarnate** | System Boundary, Process Architecture (DFD), UI/UX Blueprint, Validation Plan | [@athea1](https://github.com/athea1) |
+| **Prince Wesley Dela Pasion**| Specific Requirements (MoSCoW), Process Architecture (DFD), Data Architecture (ERD) | [@westdp17](https://github.com/westdp17) | 
 | **Brix Charles Caparon** | Data Architecture (Logical ERD), TELOS Feasibility Analysis | [@424005722-Brix](https://github.com/424005722-Brix)) |
 | **Eucel Penarubia** | Data Architecture (Logical ERD) | [@username](https://github.com/) |
 | **Christian Camano** | Logical Use Case Models, System Infrastructure (3-Tier Architecture) | [@Kisatsune](https://github.com/Kisatsune) |
